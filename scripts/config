@@ -1,0 +1,4 @@
+user=node
+host=coophub.cc
+root_dir=/home/node/workspace/github.com/beenotung/coophub
+pm2_name="coophub"
